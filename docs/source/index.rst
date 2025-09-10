@@ -6,4 +6,4 @@ Smart Home Quick Start Guide
    :caption: Contents
 
    Introduction
-   Installing the Arduino IDE
+   installing_arduino_ide
