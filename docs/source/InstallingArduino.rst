@@ -31,4 +31,4 @@ Install Arduino IDE Fro Windows
 
  - 6.Then Finish. 
 
-   .. image::_static/Install_Arduino_IDE_5.png
+   .. image:: _static/Install_Arduino_IDE_5.png
