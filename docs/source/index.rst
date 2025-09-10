@@ -1,4 +1,4 @@
-Installation Tutorial of Smart Home 
+Smart Home Quick Start Guide
 ===========================
 
 .. toctree::
@@ -6,8 +6,4 @@ Installation Tutorial of Smart Home
    :caption: Contents
 
    Introduction
-   Base
-   Floor1
-   Floor2
-   Garden
-   Fixing
+   Installing the Arduino IDE

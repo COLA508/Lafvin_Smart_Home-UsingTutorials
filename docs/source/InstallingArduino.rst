@@ -8,7 +8,6 @@ Install Arduino IDE Fro Windows
 
     .. image:: _static/2.arduino_install.png
 
-
  - 2.Please select the version that matches your computer configuration to download. Click the 'Download' button to automatically start downloading.
 
 .. admonition:: Precautions
