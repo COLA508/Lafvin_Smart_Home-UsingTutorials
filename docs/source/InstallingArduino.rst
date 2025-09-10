@@ -6,7 +6,7 @@ Install Arduino IDE Fro Windows
 
  - 1.Visit the official website of Arduino IDE `Arduino IDE tutorial <https://www.arduino.cc/en/software/>`_
 
-    .. image:: _static/2.arduino_install.png
+ .. image:: _static/2.arduino_install.png
 
  - 2.Please select the version that matches your computer configuration to download. Click the 'Download' button to automatically start downloading.
 
