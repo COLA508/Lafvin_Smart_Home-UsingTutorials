@@ -11,6 +11,7 @@ Install Arduino IDE Fro Windows
  - 2.Please select the version that matches your computer configuration to download. Click the 'Download' button to automatically start downloading.
 
 .. admonition:: Precautions
+   
  - The Arduino IDE version will be updated over time. To ensure compatibility with the system, it is recommended that you choose the latest official version when downloading.
 
 
