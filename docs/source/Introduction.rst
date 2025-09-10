@@ -23,5 +23,4 @@ Installation Tutorial
 （此处会插入一段安装的视频教程）
 
  - You can watch a demonstration of how to install the LA-Smart-Home  in the video above. 
- -   For a graphic tutorial, please click this link. `Installation graphic tutorial<https://lafvin-smart-home.readthedocs.io/en/latest/index.html>`
-
+ -   For a graphic tutorial, please click this link. `Installation graphic tutorial <https://lafvin-smart-home.readthedocs.io/en/latest/index.html>`_
