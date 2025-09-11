@@ -2,9 +2,7 @@ Introduction
 =============
 （此处图片可换为实拍图）
 
-.. figure:: _static/1.completed.png
-   :alt: The effect picture of the cabin installation
-   :align: center
+  .. image:: _static/1.completed.png
 
 
    （Design sketch of smart house installation）
