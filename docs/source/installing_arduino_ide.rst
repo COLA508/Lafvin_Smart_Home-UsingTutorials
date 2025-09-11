@@ -58,11 +58,11 @@ Open the IDE
 
 When you first open Arduino IDE, it automatically installs the Arduino AVR Boards, built-in libraries, and other required files.
 
-   .. image:: _static/Install/Install_Arduino_IDE_7.png
+   .. image:: _static/Install_Arduino_IDE_7.png
 
 In addition, your firewall or security center may pop up a few times asking you if you want to install some device driver. Please install all of them.
 
-   .. image:: _static/Install/Install_Arduino_IDE_8.png
+   .. image:: _static/Install_Arduino_IDE_8.png
 
 Now your Arduino IDE is ready!
 
