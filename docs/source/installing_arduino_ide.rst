@@ -50,3 +50,23 @@ Install Arduino IDE Fro Linux
 For the tutorial on installing the Arduino IDE 2.0 on a Linux system, please 
 refer `Linux-Install Arduino IDE <https://docs.arduino.cc/software/ide-v2/tutori
 als/getting-started/ide-v2-downloading-and-installing#linux>`_
+
+
+
+Open the IDE
+-------------
+
+When you first open Arduino IDE, it automatically installs the Arduino AVR Boards, built-in libraries, and other required files.
+
+   .. image:: _static/Install/Install_Arduino_IDE_7.png
+
+In addition, your firewall or security center may pop up a few times asking you if you want to install some device driver. Please install all of them.
+
+   .. image:: _static/Install/Install_Arduino_IDE_8.png
+
+Now your Arduino IDE is ready!
+
+.. admonition:: Precautions
+
+  - In the event that some installations didn't work due to network issues or other reasons, you can reopen the Arduino IDE and it will finish the rest of the installation. 
+  - The Output window will not automatically open after all installations are complete unless you click Verify or Upload.
