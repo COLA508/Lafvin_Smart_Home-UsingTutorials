@@ -1,4 +1,4 @@
-Installing the Arduino IDE
+Install the Arduino IDE
 ===========================
 
 Install Arduino IDE For Windows

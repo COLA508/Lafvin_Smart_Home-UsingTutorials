@@ -6,4 +6,5 @@ Smart Home Quick Start Guide
    :caption: Contents
 
    Introduction
-   installing_arduino_ide
+   install_arduino_ide
+   install_CH340_serial_port_driver
