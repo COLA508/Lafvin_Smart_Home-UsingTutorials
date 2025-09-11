@@ -21,7 +21,7 @@ Install Arduino IDE For Windows
 
    .. image:: _static/Install_Arduino_IDE_2.png
 
-- 5.Choose installation options.
+- 5. Choose installation options.
 
    .. image:: _static/Install_Arduino_IDE_3.png
 
