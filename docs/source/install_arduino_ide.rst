@@ -19,19 +19,19 @@ Install Arduino IDE For Windows
 - 4. Read the License Agreement and agree it.
 
 
-   .. image:: _static/Install_Arduino_IDE_2.png
+   .. image:: _static/3.Install_Arduino_IDE.png
 
 - 5. Choose installation options.
 
-   .. image:: _static/Install_Arduino_IDE_3.png
+   .. image:: _static/4.Install_Arduino_IDE.png
 
 - 6. Choose install location. It is recommended that the software be installed on a drive other than the system drive.
 
-   .. image:: _static/Install_Arduino_IDE_4.png
+   .. image:: _static/5.Install_Arduino_IDE.png
 
 - 7. Then Finish. 
 
-   .. image:: _static/Install_Arduino_IDE_5.png
+   .. image:: _static/6.Install_Arduino_IDE.png
 
 
 Install Arduino IDE Fro MacOS
@@ -40,7 +40,7 @@ Install Arduino IDE Fro MacOS
 Double click on the downloaded ``arduino_ide_xxxx.dmg`` file and follow the 
 instructions to copy the **Arduino IDE.app** to the **Applications** folder, you will see the Arduino IDE installed successfully after a few seconds.
 
-.. image:: _static/Install_Arduino_IDE_6.png
+.. image:: _static/7.Install_Arduino_IDE.png
     :width: 800
 
 
@@ -58,11 +58,11 @@ Open the IDE
 
 When you first open Arduino IDE, it automatically installs the Arduino AVR Boards, built-in libraries, and other required files.
 
-   .. image:: _static/Install_Arduino_IDE_7.png
+   .. image:: _static/8.Install_Arduino_IDE.png
 
 In addition, your firewall or security center may pop up a few times asking you if you want to install some device driver. Please install all of them.
 
-   .. image:: _static/Install_Arduino_IDE_8.png
+   .. image:: _static/9.Install_Arduino_IDE.png
 
 Now your Arduino IDE is ready!
 
