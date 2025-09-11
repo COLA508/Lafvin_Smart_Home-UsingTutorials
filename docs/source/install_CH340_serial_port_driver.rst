@@ -1,4 +1,4 @@
-Install CH340 Serial Port Driver
+Install CH340 Driver
 ===========================
  - The ESP32 controller board used in this kit uses the CH340C USB-to-serial chip, so you need to install the corresponding driver. 
 
@@ -11,4 +11,3 @@ Install CH340 Serial Port Driver
 3. Select the first Windows version, enter the download page and click the 'Download' button to start downloading.
 
   .. image:: _static/11.CH340.png
-    
