@@ -1,5 +1,5 @@
 # -- Project information -----------------------------------------------------
-project = 'LA_Smart_Home-Installation tutorial'
+project = 'Smart Home Quick Start Guide'
 copyright = '2025, Lafvin'
 author = 'Lafvin'
 

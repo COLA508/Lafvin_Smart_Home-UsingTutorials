@@ -1,5 +1,5 @@
-Smart Home Quick Start Guide
-===========================
+Introduction
+=============
 （此处图片可换为实拍图）
 
 .. figure:: _static/1.completed.png
@@ -9,9 +9,6 @@ Smart Home Quick Start Guide
 
    （Design sketch of smart house installation）
 
-
-Introduction
-------------
   Welcome to LA-Smart-Home! To help you get started faster and reduce minor problems during use, we recommend that you read this tutorial patiently before following the steps.
 
 Bill of Materials
