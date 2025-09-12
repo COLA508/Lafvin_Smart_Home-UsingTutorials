@@ -3,11 +3,6 @@ Install the Arduino IDE
 
 This section will guide you through installing the **Arduino IDE** on Windows, macOS, and Linux systems.  
 
-.. contents:: Table of Contents
-   :local:
-   :depth: 2
-   :backlinks: none
-
 ------------------------------------
 Install Arduino IDE on Windows
 ------------------------------------
