@@ -8,4 +8,4 @@ Smart Home Quick Start Guide
    Introduction
    install_arduino_ide
    install_CH340
-   Install_ESP32
+   install_ESP32
