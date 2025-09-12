@@ -69,8 +69,8 @@ Checking Correct Driver Installation in Arduino IDE
 .. image:: _static/16.CH340.png
    :width: 600
 
-.. admonition:: Troubleshooting
-   :class: warning
+.. admonition:: Precaution
+   :class: note
 
    If the Arduino CH340 device does not appear in Device Manager or the Arduino IDE:  
    - Uninstall the driver, restart your computer, then reinstall it.  
