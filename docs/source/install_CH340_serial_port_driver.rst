@@ -50,7 +50,7 @@ Installing the Driver
    In some cases, you may need to **restart Windows** after installation to ensure the driver takes effect.  
 
 ------------------------------------
-Verifying Driver Installation (Device Manager)
+Checking Correct Driver Installation in Device Manager
 ------------------------------------
 
 Once the driver is installed, connect the ESP32 board to your computer.  
