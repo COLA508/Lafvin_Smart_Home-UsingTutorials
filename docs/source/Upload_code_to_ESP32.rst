@@ -82,13 +82,13 @@ Upload Code
 
 .. admonition:: Precaution
    :class: note
-   
-- If the code fails to upload, follow these troubleshooting steps:
-- Confirm that the selected port in **Tools → Port** corresponds to the connected ESP32 board.  
-- Confirm that the correct ESP32 board model is selected in **Tools → Board**.  
-- Ensure that the CH340 serial driver (or other required USB driver) is installed and the board is recognized in the device manager.  
-- Try changing the USB port or using a different USB data cable that supports data transfer.  
-- Confirm that the ESP32 core package is installed and all required libraries are imported.  
-- Use the recommended library versions; mismatched versions may cause compilation or upload errors.  
-- Make sure no other program is using the serial port, such as Serial Monitor or other tools.  
-- If upload fails, press the **RST** button on the ESP32 board and try again.
+
+   - If the code fails to upload, follow these troubleshooting steps:
+   - Confirm that the selected port in **Tools → Port** corresponds to the connected ESP32 board.  
+   - Confirm that the correct ESP32 board model is selected in **Tools → Board**.  
+   - Ensure that the CH340 serial driver (or other required USB driver) is installed and the board is recognized in the device manager.  
+   - Try changing the USB port or using a different USB data cable that supports data transfer.  
+   - Confirm that the ESP32 core package is installed and all required libraries are imported.  
+   - Use the recommended library versions; mismatched versions may cause compilation or upload errors.  
+   - Make sure no other program is using the serial port, such as Serial Monitor or other tools.  
+   - If upload fails, press the **RST** button on the ESP32 board and try again.
