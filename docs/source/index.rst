@@ -7,5 +7,5 @@ Smart Home Quick Start Guide
 
    Introduction
    install_arduino_ide
-   install_CH340_serial_port_driver
+   install_CH340
    Install_ESP32
