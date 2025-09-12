@@ -79,9 +79,10 @@ When the message **"Leaving... Hard resetting via RTS pin..."** appears in the O
 
 
 
+
 .. admonition:: Precaution
 
-If the code fails to upload, follow these troubleshooting steps:
+- If the code fails to upload, follow these troubleshooting steps:
 - Confirm that the selected port in **Tools → Port** corresponds to the connected ESP32 board.  
 - Confirm that the correct ESP32 board model is selected in **Tools → Board**.  
 - Ensure that the CH340 serial driver (or other required USB driver) is installed and the board is recognized in the device manager.  
