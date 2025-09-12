@@ -23,7 +23,7 @@ Downloading the driver
 
 
 
- Installing the driver
+Installing the driver
 ----------------------
 1. After downloading the driver, open it and click Install.
   
@@ -46,5 +46,5 @@ Once the driver is installed correctly, connect the development board to the com
 
 
   .. image:: _static/15.CH340.png
-    
+
 
