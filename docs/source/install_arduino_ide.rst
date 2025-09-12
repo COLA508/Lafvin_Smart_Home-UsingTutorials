@@ -48,7 +48,7 @@ Install Arduino IDE on Windows
       :alt: Installation finished
 
 ------------------------------------
-Install Arduino IDE on macOS
+Install Arduino IDE on MacOS
 ------------------------------------
 
 1. Double-click the downloaded ``arduino-ide_xxxx.dmg`` file.  
