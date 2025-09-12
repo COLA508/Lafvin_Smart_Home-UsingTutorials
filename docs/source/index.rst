@@ -10,3 +10,4 @@ Smart Home Quick Start Guide
    install_CH340
    install_ESP32
    add_libraries
+   Upload_code_to_ESP32
