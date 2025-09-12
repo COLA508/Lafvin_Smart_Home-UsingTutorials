@@ -60,6 +60,7 @@ Make sure this port number matches the one you saw in the Device Manager in the 
 
 
 .. admonition:: Precautions
+
 If you can't find the Arduino CH340 device in your computer's device manager or the Arduino IDE, the driver isn't installed correctly. You can try the following solutions:
  - Uninstall the driver, restart your computer, and then reinstall it.
 
