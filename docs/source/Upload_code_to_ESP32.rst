@@ -63,3 +63,19 @@ The Output window of the Arduino IDE will display the progress of the code compi
 When the Arduino IDE Output window displays the message "Leaving... Hard resetting via RTS pin...", the code has been uploaded successfully. Press the RST reset button on the ESP32 development board to start running the program.
 
  .. image:: _static/41.upload.png
+
+
+
+
+.. admonition:: Precaution
+   :class: note
+
+ If code fails to upload to the ESP32 development board, follow these steps to troubleshoot:
+ - Confirm that the port selected in Tools -> Port in the Arduino IDE corresponds to the port of the connected ESP32 development board.
+ - Confirm that the correct ESP32 development board model is selected in Tools -> Board.
+ - Make sure the CH340 serial port driver (or other required USB driver) is correctly installed and that the development board is recognized in the device manager.
+ - Try changing the USB port or USB data cable to ensure that it supports data transmission.
+ - Confirm that the ESP32 core package is installed and all required libraries have been imported.
+ - If the library version does not match the tutorial, compilation or upload failures may occur. Please use the recommended version.
+ - Confirm that no other programs are using the serial port, such as the serial monitor or other serial tools.
+ - If the upload fails, press the RST button on the ESP32 development board to try uploading again.
