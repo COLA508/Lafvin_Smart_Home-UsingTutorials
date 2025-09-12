@@ -2,7 +2,7 @@ Install CH340 Driver
 ===========================
  - The ESP32 controller board used in this kit uses the CH340C USB-to-serial chip, so you need to install the corresponding driver. 
 
-If you connect the motherboard to the computer before installing the driver, the computer will not be able to correctly recognize the motherboard and you will see the following interface in the Device Manager.
+ - If you connect the motherboard to the computer before installing the driver, the computer will not be able to correctly recognize the motherboard and you will see the following interface in the Device Manager.
 
  .. image:: _static/12.CH340.png
 
@@ -42,9 +42,28 @@ Installing the driver
 
 Checking Correct Driver Installation in Device Manager
 -------------------------------------------------------
+
 Once the driver is installed correctly, connect the development board to the computer and you will see the corresponding name and port number in the port settings. For example, the ESP32 development board in this example is connected to COM28
 
 
   .. image:: _static/15.CH340.png
 
 
+Checking Correct Driver Installation in Arduino IDE
+-------------------------------------------------------
+
+After connecting the ESP32 development board to your computer, open the Arduino IDE. Go to Tools -> Port and select the corresponding COMx port. 
+Make sure this port number matches the one you saw in the Device Manager in the previous step.
+
+ .. image:: _static/16.CH340.png
+
+
+
+.. admonition:: Precautions
+If you can't find the Arduino CH340 device in your computer's device manager or the Arduino IDE, the driver isn't installed correctly. You can try the following solutions:
+ - Uninstall the driver, restart your computer, and then reinstall it.
+
+  .. image:: _static/16.CH340.png
+
+ - Change the USB port or use a different computer.
+ - Use a USB cable that supports data transfer （not just power）.
