@@ -60,7 +60,7 @@ You should see the correct name and port number appear in the **Device Manager**
    :width: 600
 
 ------------------------------------
-Verifying Driver Installation (Arduino IDE)
+Checking Correct Driver Installation in Arduino IDE
 ------------------------------------
 
 1. Open the Arduino IDE.  
