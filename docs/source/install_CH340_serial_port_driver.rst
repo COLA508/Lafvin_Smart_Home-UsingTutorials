@@ -64,7 +64,7 @@ Make sure this port number matches the one you saw in the Device Manager in the 
 If you can't find the Arduino CH340 device in your computer's device manager or the Arduino IDE, the driver isn't installed correctly. You can try the following solutions:
  - Uninstall the driver, restart your computer, and then reinstall it.
 
-  .. image:: _static/16.CH340.png
+  .. image:: _static/17.CH340.png
 
  - Change the USB port or use a different computer.
  - Use a USB cable that supports data transfer （not just power）.
