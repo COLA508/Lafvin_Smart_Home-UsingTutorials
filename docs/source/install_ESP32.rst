@@ -20,7 +20,7 @@ Add additional boards manager URL
 .. admonition:: Precaution
    :class: note
 
-   After completing this step, you need to close and reopen the Arduino IDE.
+ - After completing this step, you need to close and reopen the Arduino IDE.
 
 ------------------------------------
 Download the core package for the ESP32 development board
@@ -53,6 +53,6 @@ Click "Tools"->"board"->"esp32" to check whether there is an esp32 development b
  .. admonition:: Precaution
    :class: note
 
- We recommend installing ESP32 Core Package version 3.2.0, or using version 3.0 or later. 
- Older versions may be incompatible with the libraries used in this tutorial, causing program errors. 
- If you have an earlier version installed, uninstall it and then reinstall version 3.2.0 of the ESP32 Core Package.
+ - We recommend installing ESP32 Core Package version 3.2.0, or using version 3.0 or later.
+ - Older versions may be incompatible with the libraries used in this tutorial, causing program errors.
+ - If you have an earlier version installed, uninstall it and then reinstall version 3.2.0 of the ESP32 Core Package.
