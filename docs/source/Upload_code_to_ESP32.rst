@@ -61,17 +61,17 @@ Check Board and Port Selection
 Upload Code
 ------------------------------------
 
-Click the **Upload** icon in Arduino IDE. The system will automatically compile and upload the code to the ESP32 development board.  
+1. Click the **Upload** icon in Arduino IDE. The system will automatically compile and upload the code to the ESP32 development board.  
 
 .. image:: _static/39.upload.png
    :width: 600
 
-The Output window will display the compilation and upload progress. The process may be slow, so please wait patiently until the code is successfully uploaded.  
+2. The Output window will display the compilation and upload progress. The process may be slow, so please wait patiently until the code is successfully uploaded.  
 
 .. image:: _static/40.upload.png
    :width: 600
 
-When the message **"Leaving... Hard resetting via RTS pin..."** appears in the Output window, the code has been uploaded successfully. Press the **RST** button on the ESP32 board to start running the program.  
+3. When the message **"Leaving... Hard resetting via RTS pin..."** appears in the Output window, the code has been uploaded successfully. Press the **RST** button on the ESP32 board to start running the program.  
 
 .. image:: _static/41.upload.png
    :width: 600
@@ -81,7 +81,8 @@ When the message **"Leaving... Hard resetting via RTS pin..."** appears in the O
 
 
 .. admonition:: Precaution
-
+   :class: note
+   
 - If the code fails to upload, follow these troubleshooting steps:
 - Confirm that the selected port in **Tools → Port** corresponds to the connected ESP32 board.  
 - Confirm that the correct ESP32 board model is selected in **Tools → Board**.  
