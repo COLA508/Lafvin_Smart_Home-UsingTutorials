@@ -24,6 +24,11 @@ APP Usage Guide
 
    .. image:: _static/53.APP.png
 
-2. CClick the WiFi icon in the upper right corner of the interface, enter the IP address, and then click the "Connect" button to successfully connect the mobile app to the kit.
+2. Click the WiFi icon in the upper right corner of the interface, enter the IP address, and then click the "Connect" button to successfully connect the mobile app to the kit.
 
    .. image:: _static/54.APP.png
+
+.. admonition:: Precaution
+   :class: precaution
+
+ - The kit's IP address will be displayed on the LCD1602 screen each time the development board is powered on. Because the IP address may change randomly, if your mobile app cannot connect to the kit, first confirm whether the IP address has changed and enter the latest address to connect.
