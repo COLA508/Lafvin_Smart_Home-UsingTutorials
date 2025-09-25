@@ -36,7 +36,7 @@ Burning firmware
 
    .. image:: _static/45.TOOL.png
 
-3. On the pop-up page, select "ESP32" from the "Chip Type" drop-down menu, select "Develop" from the "WorkMode" drop-down menu, and leave "UART" as the default setting for "LoadMode". Click "OK" when finished.
+3. On the pop-up page, select **ESP32** from the "Chip Type" drop-down menu, select **Develop** from the "WorkMode" drop-down menu, and leave **UART** as the default setting for "LoadMode". Click **OK** when finished.
 
    .. image:: _static/46.TOOL.png
 
@@ -44,15 +44,15 @@ Burning firmware
 
    .. image:: _static/47.TOOL.png
 
-5. Set the parameters as shown in the picture: "SPI SPEED" select "80MHz", "SPI MODE" select "DIO", "COM" select the serial port actually connected to the computer, and "BAUD" set to "921600".
+5. Set the parameters as shown in the picture: **SPI SPEED** select **80MHz**, **SPI MODE** select **DIO**, **COM** select the serial port actually connected to the computer, and **BAUD** set to **921600**.
 
    .. image:: _static/48.TOOL.png
 
-6. After completing the above settings, click the "START" button and the system will automatically start burning the firmware. Please wait patiently for the burning to complete.
+6. After completing the above settings, click the **START** button and the system will automatically start burning the firmware. Please wait patiently for the burning to complete.
 
    .. image:: _static/49.TOOL.png
 
-7. After the burning is completed, the interface will display the "FINISH" prompt. At this time, press the RST reset button on the ESP32 development board and the system will start running.
+7. After the burning is completed, the interface will display the **FINISH** prompt. At this time, press the RST reset button on the ESP32 development board and the system will start running.
 
    .. image:: _static/50.TOOL.png
 

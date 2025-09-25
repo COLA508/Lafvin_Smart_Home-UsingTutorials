@@ -35,7 +35,7 @@ The following table lists all components included in the **ESP32-IOT-SmartHome-k
      - 1 pcs
    * - Light Sensor
      - 1 pcs
-   * - LED Sensor
+   * - LED Module
      - 1 pcs
    * - Button Module
      - 1 pcs
