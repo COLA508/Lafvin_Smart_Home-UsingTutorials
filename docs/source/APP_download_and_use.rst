@@ -37,6 +37,10 @@ APP Usage Guide
    :width: 600
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+   
 .. image:: _static/54.APP.png
    :width: 600
    :align: center
@@ -93,4 +97,4 @@ This kit supports voice recognition, allowing users to directly control LED ligh
 
 .. note::
 
-- The system only recognizes the following preset commands. Voice content outside the range will not take effect.
+   - The system only recognizes the following preset commands. Voice content outside the range will not take effect.
