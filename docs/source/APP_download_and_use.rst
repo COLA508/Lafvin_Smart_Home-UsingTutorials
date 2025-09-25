@@ -12,7 +12,7 @@ APP Download
  - iOS devices can download the app from the App Store. Search for "LAFVIN" to find and install it, or scan the QR code below to jump to the download page.
 
 
-   .. image:: _static/51.APP.png
+   .. image:: _static/51.APP1.png
 
    .. image:: _static/52.APP.png
 
