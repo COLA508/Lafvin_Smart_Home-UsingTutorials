@@ -55,11 +55,19 @@ Burning firmware
    :width: 600
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 4. Follow the instructions in the picture to import the downloaded firmware (the file has been moved to the bin folder). Select the firmware file in the box on the left side of the software interface and enter "0" in the box on the right to complete the firmware setting.
 
 .. image:: _static/47.TOOL.png
    :width: 600
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 5. Set the parameters as shown in the picture: **SPI SPEED** select **80MHz**, **SPI MODE** select **DIO**, **COM** select the serial port actually connected to the computer, and **BAUD** set to **921600**.
 
@@ -67,17 +75,29 @@ Burning firmware
    :width: 600
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 6. After completing the above settings, click the **START** button and the system will automatically start burning the firmware. Please wait patiently for the burning to complete.
 
 .. image:: _static/49.TOOL.png
    :width: 600
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 7. After the burning is completed, the interface will display the **FINISH** prompt. At this time, press the RST reset button on the ESP32 development board and the system will start running.
 
 .. image:: _static/50.TOOL.png
    :width: 600
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 
 .. note::
