@@ -28,7 +28,7 @@ APP Usage Guide
 1. Open the downloaded and installed application, the interface is as follows.  
 
 .. image:: _static/53.APP.png
-   :width: 700
+   :width: 600
    :align: center
 
 2. Click the WiFi icon in the upper right corner of the interface, enter the IP address, and then click the "Connect" button to successfully connect the mobile app to the kit.  
@@ -40,7 +40,7 @@ APP Usage Guide
 .. raw:: html
 
    <div style="margin-top: 30px;"></div>
-   
+
 .. image:: _static/54.APP.png
    :width: 600
    :align: center
