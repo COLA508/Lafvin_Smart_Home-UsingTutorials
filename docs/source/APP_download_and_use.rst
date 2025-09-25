@@ -26,9 +26,57 @@ APP Usage Guide
 
 2. Click the WiFi icon in the upper right corner of the interface, enter the IP address, and then click the "Connect" button to successfully connect the mobile app to the kit.
 
+   .. image:: _static/55.APP.png
+
    .. image:: _static/54.APP.png
+
+
 
 .. admonition:: Precaution
    :class: precaution
 
  - The kit's IP address will be displayed on the LCD1602 screen each time the development board is powered on. Because the IP address may change randomly, if your mobile app cannot connect to the kit, first confirm whether the IP address has changed and enter the latest address to connect.
+ - If you receive a "Connection failed" message when trying to connect to an IP address on iOS, first go to System Settings, find the "Wi-Fi & Cellular Data" permission for the app, and confirm that Internet access is enabled. If not, enable the permission, then return to the app and try connecting again.
+
+    .. image:: _static/56.APP.png
+
+3. APP Interface Operation Guide
+
+ - Once connected, users can control the Smart Cabin Kit through the app. The left side of the interface displays real-time sensor data, including temperature, humidity, brightness, rain levels, and human presence, allowing users to monitor environmental conditions at any time.
+
+     .. image:: _static/57.APP.png
+
+ - The middle is the control area. Click different icons to switch on and off the LED lights, fans, doors and windows. The operation is intuitive and convenient.
+
+    .. image:: _static/58.APP.png
+
+ - On the right is the RGB atmosphere light control area. In addition to switching preset lighting effects through the button module, you can also manually adjust the RGB values ​​in the APP to customize your favorite colors. However, you must first click the "RGB Switch" button to turn on the light strip before you can adjust the color.
+
+    .. image:: _static/59.APP.png
+
+
+
+
+Speech Recognition Operation
+----------------------------
+
+This kit supports voice recognition, allowing users to directly control LED lights, fans, doors and windows, and adjust the volume through voice commands. 
+
+ - close the door
+ - Turn on the light
+ - Turn off the light
+ - Open the window
+ - close the window
+ - Turn on the fan
+ - Turn off the fan
+ - Turn on the ambient light
+ - Turn off the ambient light
+ - Volume Up
+ - lower the volume
+
+.. admonition:: Precaution
+   :class: precaution
+
+ - The system only recognizes the following preset commands. Voice content outside the range will not take effect.
+
+ 

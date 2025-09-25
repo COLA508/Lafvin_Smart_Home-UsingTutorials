@@ -1,5 +1,5 @@
-Installing The ESP32 Core Board In The Arduino IDE
-==================================================
+Installing The ESP32 Core Board 
+================================
 
 Add Additional Boards Manager URL
 ---------------------------------
