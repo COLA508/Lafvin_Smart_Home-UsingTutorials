@@ -5,7 +5,7 @@ Welcome to **LA-Smart-Home**! 🎉
 
 To help you get started quickly and reduce possible problems during use, we recommend that you **read this tutorial carefully** before following the installation steps.
 
-.. image:: _static/1.completed.png
+.. image:: _static/1.SmartHome.png
    :alt: Completed LA-Smart-Home Kit
    :width: 800
 
