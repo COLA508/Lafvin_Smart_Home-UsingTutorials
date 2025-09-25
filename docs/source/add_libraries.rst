@@ -74,3 +74,8 @@ You can also download required libraries directly using the Arduino IDE.
 .. image:: _static/32.lib.png
    :width: 600
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
