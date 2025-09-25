@@ -12,7 +12,7 @@ To help you get started quickly and reduce possible problems during use, we reco
 
 
 Bill of Materials
-=================
+-----------------
 
 The following table lists all components included in the **ESP32-IOT-SmartHome-kit**. Please check carefully to ensure that all parts are complete before starting.  
 
@@ -75,7 +75,7 @@ The following table lists all components included in the **ESP32-IOT-SmartHome-k
 
 
 Installation Tutorial
-=====================
+---------------------
 
 To help you assemble the kit, please refer to the following resources:  
 

@@ -5,7 +5,7 @@ This section will guide you through installing the **Arduino IDE** on Windows, m
 
 
 Install Arduino IDE on Windows
-==============================
+---------------------
 
 1. Visit the official Arduino website and go to the software download page:  
    `Arduino IDE Download <https://www.arduino.cc/en/software/>`_
@@ -48,7 +48,7 @@ Install Arduino IDE on Windows
 
 
 Install Arduino IDE on MacOS
-============================
+---------------------
 
 1. Double-click the downloaded ``arduino-ide_xxxx.dmg`` file.  
 
@@ -63,7 +63,7 @@ Install Arduino IDE on MacOS
 
 
 Install Arduino IDE on Linux
-============================
+---------------------
 
 For Linux users, please follow the official tutorial for Arduino IDE 2.0 installation:  
 
@@ -71,7 +71,7 @@ For Linux users, please follow the official tutorial for Arduino IDE 2.0 install
 
 
 Open the Arduino IDE
-====================
+---------------------
 
 When you open Arduino IDE for the first time:  
 
