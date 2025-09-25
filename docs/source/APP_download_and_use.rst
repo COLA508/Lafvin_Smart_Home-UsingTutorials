@@ -76,4 +76,3 @@ This kit supports voice recognition, allowing users to directly control LED ligh
 .. admonition:: Precaution
 
  - The system only recognizes the following preset commands. Voice content outside the range will not take effect.
-
