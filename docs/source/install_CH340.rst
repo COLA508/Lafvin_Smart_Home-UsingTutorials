@@ -76,6 +76,10 @@ Checking Correct Driver Installation in Arduino IDE
    :align: center
 
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+   
 .. note::
 
    If the Arduino CH340 device does not appear in Device Manager or the Arduino IDE:  
