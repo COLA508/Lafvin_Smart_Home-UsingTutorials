@@ -85,6 +85,4 @@ To help you assemble the kit, please refer to the following tutorial resources:
    - It is recommended to prepare all components in advance before starting the installation.  
    - Follow the video first, then check the graphic tutorial for wiring details.  
 
-* If you'd like to quickly experience the kit's features, click here to jump directly to a tutorial on flashing the firmware. Flashing the firmware directly to the ESP32 development board will allow you to immediately experience the kit's full functionality. If you'd like a step-by-step guide to installation and configuration, please follow this tutorial. *
-
-:doc:`Direct_burning_program`
+**If you'd like to quickly experience the kit's features, click here to jump directly to a tutorial on flashing the firmware. Flashing the firmware directly to the ESP32 development board will allow you to immediately experience the kit's full functionality. If you'd like a step-by-step guide to installation and configuration, please follow this tutorial.** :doc:`Direct_burning_program`
